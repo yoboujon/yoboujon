@@ -1,5 +1,5 @@
 <h2>Hi everyone ! I'm <a href="https://etheryo.fr/">Yohan Boujon</a> 👌</h2>
-<p>Junior Dev here in apprenticeship. I mainly code in C++ learning Computer Science and Electronics. My goal is to create projects that combine a both artistic and pragmatic view.</p>
+<p>I mainly code in C++ learning Computer Science and Electronics. My goal is to create projects that combine a both artistic and pragmatic view.</p>
 <h3>🔧 My main tools :</h3>
 <p>
   <img src="https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff&style=flat-square" alt="VSCodium Badge">
