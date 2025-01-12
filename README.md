@@ -47,7 +47,7 @@
 <br>
 
 <a href="https://www.linkedin.com/in/yohan-boujon-a08511202/">
-    <img src="img/linkedin.png" height="50dvh" />
+    <img src="img/unknown_social.png" height="50dvh" />
 </a>
 <a href="https://www.youtube.com/@yoboujon">
     <img src="img/youtube.png" height="50dvh" />
