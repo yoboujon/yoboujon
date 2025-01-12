@@ -43,3 +43,21 @@
 <div align="left">
 	<img src="img/title_social.png" width="40%">
 </div>
+
+<br>
+
+<a href="https://www.linkedin.com/in/yohan-boujon-a08511202/">
+    <img src="img/linkedin.png" height="50dvh" />
+</a>
+<a href="https://www.youtube.com/@yoboujon">
+    <img src="img/youtube.png" height="50dvh" />
+</a>
+<a href="https://www.instagram.com/yoboujon/">
+    <img src="img/instagram.png" height="50dvh" />
+</a>
+<a href="https://bsky.app/profile/yoboujon.etheryo.fr">
+    <img src="img/bluesky.png" height="50dvh" />
+</a>
+<a href="https://www.etheryo.fr">
+    <img src="img/etheryo.png" height="50dvh" />
+</a>
