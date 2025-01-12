@@ -44,20 +44,19 @@
 	<img src="img/title_social.png" width="40%">
 </div>
 
-<br>
-
-<a href="https://www.linkedin.com/in/yohan-boujon-a08511202/">
+<a href="https://www.linkedin.com/in/yohan-boujon-a08511202/" target="_blank">
     <img src="img/unknown_social.png" height="50dvh" />
-</a>
-<a href="https://www.youtube.com/@yoboujon">
+</a> 
+<a href="https://www.youtube.com/@yoboujon" target="_blank">
     <img src="img/youtube.png" height="50dvh" />
-</a>
-<a href="https://www.instagram.com/yoboujon/">
+</a> 
+<a href="https://www.instagram.com/yoboujon/" target="_blank">
     <img src="img/instagram.png" height="50dvh" />
-</a>
-<a href="https://bsky.app/profile/yoboujon.etheryo.fr">
+</a> 
+<a href="https://bsky.app/profile/yoboujon.etheryo.fr" target="_blank">
     <img src="img/bluesky.png" height="50dvh" />
-</a>
-<a href="https://www.etheryo.fr">
+</a> 
+<a href="https://www.etheryo.fr" target="_blank">
     <img src="img/etheryo.png" height="50dvh" />
 </a>
+
