@@ -27,11 +27,11 @@
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yoboujon&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=5&exclude_repo=saoulbonmonsieur&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yoboujon&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=5&hide=html,css&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yoboujon&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=5&exclude_repo=saoulbonmonsieur"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yoboujon&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=5&hide=html,css"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoboujon" />
