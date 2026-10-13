@@ -17,46 +17,4 @@
 
 <br>
 
-<div align="left">
-	<img src="img/title_stats.png" width="40%">
-</div>
-
-<br>
-
-<!-- Most Used Languages -->
-<div align="center">
-  <picture>
-    <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=yoboujon&layout=donut&langs_count=5&hide=html,css&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=yoboujon&layout=donut&langs_count=5&hide=html,css"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoboujon" />
-  </picture>
-</div>
-
-<br>
-
-<div align="left">
-	<img src="img/title_social.png" width="40%">
-</div>
-
-<a href="https://www.linkedin.com/in/yohan-boujon-a08511202/" target="_blank">
-    <img src="img/unknown_social.png" height="50dvh" />
-</a> 
-<a href="https://www.youtube.com/@yoboujon" target="_blank">
-    <img src="img/youtube.png" height="50dvh" />
-</a> 
-<a href="https://www.instagram.com/yoboujon/" target="_blank">
-    <img src="img/instagram.png" height="50dvh" />
-</a> 
-<a href="https://bsky.app/profile/yoboujon.etheryo.fr" target="_blank">
-    <img src="img/bluesky.png" height="50dvh" />
-</a> 
-<a href="https://www.etheryo.fr" target="_blank">
-    <img src="img/etheryo.png" height="50dvh" />
-</a>
-
+Moved *almost* everything to [codeberg](https://codeberg.org/yoboujon).
